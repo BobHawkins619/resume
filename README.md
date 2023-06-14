@@ -21,4 +21,4 @@
 
 10. <a href= "https://github.com/microsoft/workshop-library/blob/main/full/build-resume-website/README.md/?WT.mc_id=academic-70942-juliamuiruri"> Click to watch the full deployment video </a>
 
-<h4><a href='https://www.bobhawkins.tech/hbnb_static/resume.html'>Resume link</a></h4>
+<h4><a href='https://bobhawkins619.github.io/resume/'>Resume link</a></h4>
